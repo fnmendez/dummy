@@ -1,9 +1,9 @@
 name: 'produce trash 🗑️'
 
-# Run at 11:00 and 17:00
+# Run at 4:00, 11:00 and 17:00
 on:
   schedule:
-    - cron: '0 11,17 * * *'
+    - cron: '0 4,11,17 * * *'
 
 jobs:
   build:
@@ -26,6 +26,6 @@ jobs:
       - name: 'Push changes'
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.TOKEN }}
           force: 'true'
           branch: 'trunk'
