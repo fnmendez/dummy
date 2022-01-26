@@ -1,9 +1,9 @@
 name: 'produce trash 🗑️'
 
-# Run at 1:17, 14:17, 16:17, 20:17 and 23:17 UTC
+# Run at 1:34, 14:34, 16:34, 20:34 and 23:34 UTC
 on:
   schedule:
-    - cron: '17 1,14,16,20,23 * * *'
+    - cron: '34 1,14,16,20,23 * * *'
 
 jobs:
   build:

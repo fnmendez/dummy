@@ -21,10 +21,13 @@ messages=[
 	"fuck",
 	"wip",
 	"bump version",
-	"updates"	
+	"updates"
 ]
 
 # I couldn't get the bash for loop to run in the github action, so... here we are.
 for n in range(random.randint(1, 10)):
-	message = q(random.choice(messages))
-	os.system(f'git commit -m "{message}" --allow-empty')
+    message = q(random.choice(messages))
+    to_write = 'message\n' * 300
+    os.system(f'echo "{to_write}" >> dump.md')
+    os.system('git add .')
+    os.system(f'git commit -m "{message}"')
