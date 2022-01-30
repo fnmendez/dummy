@@ -26,8 +26,7 @@ messages=[
 
 # I couldn't get the bash for loop to run in the github action, so... here we are.
 for n in range(random.randint(1, 10)):
-    message = q(random.choice(messages))
-    to_write = f'{message}\n' * 100
-    os.system(f'echo "{to_write}" >> dump.md')
+    to_write = f'{random.choice(messages)}\n' * 100
+    os.system(f'echo "{to_write}" >> dump/dump-{random.randint(1, 10)}.txt')
     os.system('git add .')
-    os.system(f'git commit -m "{message}"')
+    os.system(f'git commit -m "{q(random.choice(messages))}"')
