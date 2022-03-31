@@ -28,8 +28,8 @@ messages=[
 for n in range(random.randint(1, 10)):
     to_write = f'{random.choice(messages)}\n' * 100
     if n > 8:
-        os.system(f'echo "{to_write}" >> dump/dump-{random.randint(1, 10)}.txt')
-    else:
         os.system(f'echo "{to_write}" > dump/dump-{random.randint(1, 10)}.txt')
+    else:
+        os.system(f'echo "{to_write}" >> dump/dump-{random.randint(1, 10)}.txt')
     os.system('git add .')
     os.system(f'git commit -m "{q(random.choice(messages))}"')
