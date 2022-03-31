@@ -27,7 +27,7 @@ messages=[
 # I couldn't get the bash for loop to run in the github action, so... here we are.
 for n in range(random.randint(1, 10)):
     to_write = f'{random.choice(messages)}\n' * 100
-    if n < 3:
+    if n > 8:
         os.system(f'echo "{to_write}" >> dump/dump-{random.randint(1, 10)}.txt')
     else:
         os.system(f'echo "{to_write}" > dump/dump-{random.randint(1, 10)}.txt')
