@@ -1,505 +1,101 @@
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-initial commit
-
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-wip
-
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
+pi push
 
