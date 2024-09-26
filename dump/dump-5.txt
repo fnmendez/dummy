@@ -1,505 +1,101 @@
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-typo
-
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-fix
-
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-pi push
-
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-fuck
-
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
-first commit
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
+wip
 
